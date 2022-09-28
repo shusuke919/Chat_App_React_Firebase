@@ -11,3 +11,6 @@ https://github.com/fireclint/react-chat-app-firebase-public
 ・機能
 Googleログイン認証
 チャット機能（LINEみたいな）
+
+・不具合
+画面デザインがおかしい
